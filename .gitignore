@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Credenciais (nunca commitar)
+.env
+.env.*
+
+# Sistema
+.DS_Store
+*.log
